@@ -1,6 +1,6 @@
 # Web Scraper
 
-For this project, I wrote a program that scrapes articles from the scientific journal Nature and files them away for analysis. Collecting lots of data is a critical skill for someone like me. Fortunately there's plenty of it on the Internet, and with a little coding knowledge you can easily parse it into a form ready for analysis. I've used Scrapy before to parse HTML, but here BeautifulSoup made it even easier.
+For this project, I wrote a program that scrapes articles from the scientific journal Nature and files them away for analysis. I've used Scrapy before to parse HTML, but here BeautifulSoup made it even easier.
 
 This is the 9th project I completed as part of JetBrains Academy's Python Developer track. It's the most immediately useful useful one so far. I'm applying what I learned here to generate leads and opportunities for the sales teams at my company's 4 locations. I also applied what I learned about virtual environments through Corey Schafer's YouTube channel to set up one and document this project's package requirements.
 
